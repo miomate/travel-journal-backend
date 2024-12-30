@@ -6,7 +6,9 @@
 			"duration": "3",
 			"description": "YES! My first trip",
 			"destinations": "Japan",
-			"images": "https://i.imgur.com/0pOfT6P.jpeg",
+			"images": [
+				"https://i.imgur.com/0pOfT6P.jpeg"
+			],
 			"startDate": "2021-01-01",
 			"endDate": "2021-01-03",
 			"status": "completed"
@@ -17,7 +19,9 @@
 			"duration": "3",
 			"description": "WOW! My second trip",
 			"destinations": "Turkey",
-			"images": "https://i.imgur.com/0pOfT6P.jpeg",
+			"images": [
+				"https://i.imgur.com/0pOfT6P.jpeg"
+			],
 			"startDate": "2021-02-01",
 			"endDate": "2021-02-03",
 			"status": "cancelled"
@@ -28,7 +32,9 @@
 			"duration": "",
 			"description": "OH! My third trip",
 			"destinations": "Canada",
-			"images": "https://i.imgur.com/0pOfT6P.jpeg",
+			"images": [
+				"https://i.imgur.com/0pOfT6P.jpeg"
+			],
 			"startDate": "2021-03-01",
 			"endDate": "",
 			"status": "planned"
