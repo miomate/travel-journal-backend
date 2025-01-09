@@ -1,11 +1,11 @@
 {
   "trips": [
     {
-      "id": 2,
-      "title": "My second trip",
+      "id": 1,
+      "title": "My first trip",
       "duration": "3",
       "description": "WOW! My second trip",
-      "destinations": "Canada",
+      "destinations": "Japan",
       "images": [
         "https://i.imgur.com/0pOfT6P.jpeg"
       ],
